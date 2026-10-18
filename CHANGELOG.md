@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.8.0](https://github.com/morluto/rea/compare/rea-agents-6.7.0...rea-agents-6.8.0) (2026-10-18)
+
+
+### Documentation
+
+* **jeb:** qualify Linux CE native workflows ([#5002](https://github.com/morluto/rea/issues/5002)) ([c12d9ed](https://github.com/morluto/rea/commit/c12d9eda87aa5a022ee7e18ea96d8d03bfd12e96)), closes [#4996](https://github.com/morluto/rea/issues/4996)
+
 ## [6.7.0](https://github.com/morluto/rea/compare/rea-agents-6.6.0...rea-agents-6.7.0) (2026-10-18)
 
 ### Highlights
